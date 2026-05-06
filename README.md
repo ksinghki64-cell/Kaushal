@@ -17,4 +17,4 @@ I am a Data Analyst skilled in SQL and Python, focused on solving real-world bus
 - Coming Soon (Logistics Analysis, Sales Analysis)
 
 ## 📫 Contact
-- Email: your email here
+- Email: ksingh.ki64@gmail.com
